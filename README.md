@@ -3,3 +3,4 @@ Une application pour un projet Biathlon.
 ______________________________________________
 
 Ian BOULTCHYNSKI
+Margot FLEURY
