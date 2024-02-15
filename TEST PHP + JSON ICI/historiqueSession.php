@@ -17,8 +17,6 @@
     $nom = isset($_GET["nom"]) ? $_GET["nom"] : "";
     file_put_contents('data.txt', "\n$nom", FILE_APPEND);
     ?>
-    <script type="text/javascript">
-        alert("Bonjour");
-    </script>
+
 </body>
 </html>
