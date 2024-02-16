@@ -35,6 +35,10 @@
     <?php
     $nom = isset($_GET["nom"]) ? $_GET["nom"] : "";
     file_put_contents('data.txt', "\n$nom", FILE_APPEND);
+    
+    $prénom = isset($_GET["prénom"]) ? $_GET["prénom"] : "";
+    file_put_contents('data.txt', "\n$prénom", FILE_APPEND);
+
     ?></center></h1>
 <br>
 <center><img src="https://i.pinimg.com/474x/a6/c8/7c/a6c87cc02b79b0c8e3c9b06e61779eea--archery-targets-file.jpg"></center>

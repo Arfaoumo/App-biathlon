@@ -20,13 +20,13 @@ body {
   width: 225px;
   color: #b35656;
   margin-top: 10px;
-  font-size: 0.5em;
+  font-size: 25px;
   border-radius: 9px;
   margin: auto;
 }
 
 input::placeholder {
-  font-size: 25px;
+  font-size: 15px;
   text-align: center;
 
 }
@@ -86,4 +86,18 @@ a {
   border-radius: 5px;
   border: black 2px solid;
   background-color: pink;
+}
+
+input{
+  border: 2px solid cyan;
+  border-radius: 4px;
+  height: 25px;
+}
+
+.nom{
+  background-color: pink;
+}
+
+.username::placeholder {
+font-size: 25px;
 }
