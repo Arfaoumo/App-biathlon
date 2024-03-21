@@ -1,0 +1,104 @@
+body {
+  background-color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 2.5em;
+  margin-bottom: 2em;
+}
+
+.container {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.username {
+  background: #57E2E5;
+  border: #153131 3px solid;
+  padding: 8px;
+  width: 225px;
+  color: #b35656;
+  margin-top: 10px;
+  font-size: 25px;
+  border-radius: 9px;
+  margin: auto;
+}
+
+input::placeholder {
+  font-size: 15px;
+  text-align: center;
+
+}
+
+p {
+  color: black;
+  font-size: 30px;
+  vertical-align: center;
+  border: black 2px solid;
+  border-radius: 10px;
+  background-color: pink;
+}
+
+button {
+  font-size: 35px;
+  border-radius: 3px;
+  border: black 3px solid;
+  border-radius: 8px;
+  background-color: pink;
+}
+
+.back-button {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: black 2px solid;
+  background-color: pink;
+  margin: 
+}
+
+a {
+  font-size: 30px;
+  color: white;
+}
+
+.c {
+  position: relative;
+  background-color: #A63446;
+  margin: auto;
+  width: 60%;
+  border: 3px solid cyan;
+  padding: 35px;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: 
+    0 0 5px cyan,
+    0 0 10px cyan,
+    0 0 20px cyan,
+    0 0 40px cyan;
+}
+
+.f{
+    bottom: 10px;
+  left: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: black 2px solid;
+  background-color: pink;
+}
+
+input{
+  border: 2px solid cyan;
+  border-radius: 4px;
+  height: 25px;
+}
+
+.nom{
+  background-color: pink;
+}
+
+.username::placeholder {
+font-size: 25px;
+}
