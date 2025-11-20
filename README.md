@@ -3,6 +3,6 @@ Une application pour un projet Biathlon.
 ______________________________________________
 
 Ian BOULTCHYNSKI
+Mohamed Arfaoui
 Margot FLEURY
 Mathis BOGEY
-Mohamed Arfaoui
